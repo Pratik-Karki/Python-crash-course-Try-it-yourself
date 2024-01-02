@@ -1,0 +1,4 @@
+In python you can write your own functions.
+In python you can create classes.
+In python you can store data into lists, tuples, dictionaries, sets etc.
+In python you can visualize data.
